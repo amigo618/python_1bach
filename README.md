@@ -1,9 +1,9 @@
 # 🐍 Curso de Python Práctico - 1º Bachillerato
 
-Bienvenido al repositorio oficial del curso. Este material está diseñado para aprender programación desde cero, de forma práctica y aplicada a problemas reales (ingeniería, física, finanzas y bioinformática).
+Bienvenido al repositorio oficial del curso. Este material está diseñado para aprender programación desde cero, de forma práctica y aplicada a problemas reales (ingeniería, física, biología, economía, etc.).
 
-## 🚀 Cómo usar este curso
-No necesitas instalar nada en tu ordenador. Simplemente haz clic en el botón **"Lanzar Sesión"** de la clase que toque hoy. Se abrirá un entorno interactivo en la nube (Binder) con todo listo para programar.
+## 🚀 Cómo trabajar en el curso
+No necesitas instalar nada en tu ordenador. Simplemente haz clic en el botón **"Lanzar Sesión"** de la clase que toque hoy. Se abrirá un entorno interactivo en la nube (Binder / Jupyter) con todo listo para programar.
 
 | Sesión | Tema Principal | Acción |
 | :--- | :--- | :--- |
@@ -20,10 +20,7 @@ No necesitas instalar nada en tu ordenador. Simplemente haz clic en el botón **
 
 ---
 ## 🛠️ Estructura de cada sesión
-Cada notebook (`.ipynb`) sigue la misma metodología pedagógica:
-1. **Teoría Activa**: Explicación breve con ejemplos ejecutables.
-2. **Debugging**: Bloque de código con errores que el alumno debe corregir.
-3. **El Reto**: Un problema real que el alumno debe resolver desde cero.
-
----
-*Material creado por Amigo618 para alumnos de 1º de Bachillerato.*
+Cada notebook (`.ipynb`) sigue la misma estructura:
+1. **Teoría**: Explicación breve con ejemplos ejecutables.
+2. **Debugging**: Bloque de código con errores para corregir.
+3. **Reto**: Un problema real que resolver.
