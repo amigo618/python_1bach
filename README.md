@@ -23,4 +23,4 @@ No necesitas instalar nada en tu ordenador. Simplemente haz clic en el botón **
 Cada notebook (`.ipynb`) sigue la misma estructura:
 1. **Teoría**: Explicación breve con ejemplos ejecutables.
 2. **Debugging**: Bloque de código con errores para corregir.
-3. **Reto**: Un problema real que resolver.
+3. **Retos**: Problemas reales que resolver.
