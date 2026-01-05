@@ -1,8 +1,8 @@
-# 🐍 Curso de Python Práctico - 1º Bachillerato
+# ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) Curso de Python
 
 Bienvenido al repositorio oficial del curso. Este material está diseñado para aprender programación desde cero, de forma práctica y aplicada a problemas reales (ingeniería, física, biología, economía, etc.).
 
-## 🚀 Cómo trabajar en el curso
+## Cómo trabajar en el curso
 No necesitas instalar nada en tu ordenador. Simplemente haz clic en el botón **"Lanzar Sesión"** de la clase que toque hoy. Se abrirá un entorno interactivo en la nube (Binder / Jupyter) con todo listo para programar.
 
 | Sesión | Tema Principal | Acción |
