@@ -1,4 +1,4 @@
-<img src="https://simpleicons.org/icons/python.svg" width="16" height="16" />
+# Curso de Python
 
 Bienvenido al repositorio oficial del curso. Este material está diseñado para aprender programación desde cero, de forma práctica y aplicada a problemas reales (ingeniería, física, biología, economía, etc.).
 
