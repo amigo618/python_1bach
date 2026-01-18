@@ -12,6 +12,7 @@ No necesitas instalar nada en tu ordenador. Simplemente haz clic en el botón **
 | **03** | **Listas y Diccionarios**: Planetas y Átomos | [![Lanzar](https://img.shields.io/badge/Lanzar-Sesión%2003-blue?logo=jupyter)](https://mybinder.org/v2/gh/amigo618/python_1bach/HEAD?labpath=Sesiones/Sesion_03.ipynb) |
 | **04** | **Condicionales**: Árboles de Decisión | [![Lanzar](https://img.shields.io/badge/Lanzar-Sesión%2004-blue?logo=jupyter)](https://mybinder.org/v2/gh/amigo618/python_1bach/HEAD?labpath=Sesiones/Sesion_04.ipynb) |
 | **05** | **Bucles**: El poder del "for" | [![Lanzar](https://img.shields.io/badge/Lanzar-Sesión%2005-blue?logo=jupyter)](https://mybinder.org/v2/gh/amigo618/python_1bach/HEAD?labpath=Sesiones/Sesion_05.ipynb) |
+| **Repaso** | La Cyberfábrica del Futuro | [![Lanzar](https://img.shields.io/badge/Lanzar-Repaso-blue?logo=jupyter)](https://mybinder.org/v2/gh/amigo618/python_1bach/HEAD?labpath=Sesiones/Repaso_01.ipynb) |
 | **06** |  | [![Lanzar](https://img.shields.io/badge/Lanzar-Sesión%2006-blue?logo=jupyter)](https://mybinder.org/v2/gh/amigo618/python_1bach/HEAD?labpath=Sesiones/Sesion_06.ipynb) |
 | **07** |  | [![Lanzar](https://img.shields.io/badge/Lanzar-Sesión%2007-blue?logo=jupyter)](https://mybinder.org/v2/gh/amigo618/python_1bach/HEAD?labpath=Sesiones/Sesion_07.ipynb) |
 | **08** |  | [![Lanzar](https://img.shields.io/badge/Lanzar-Sesión%2008-blue?logo=jupyter)](https://mybinder.org/v2/gh/amigo618/python_1bach/HEAD?labpath=Sesiones/Sesion_08.ipynb) |
