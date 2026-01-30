@@ -18,7 +18,7 @@ No necesitas instalar nada en tu ordenador. Simplemente haz clic en el botón **
 | **08** |  | [![Lanzar](https://img.shields.io/badge/Lanzar-Sesión%2008-blue?logo=jupyter)](https://mybinder.org/v2/gh/amigo618/python_1bach/HEAD?labpath=Sesiones/Sesion_08.ipynb) |
 | **09** |  | [![Lanzar](https://img.shields.io/badge/Lanzar-Sesión%2009-blue?logo=jupyter)](https://mybinder.org/v2/gh/amigo618/python_1bach/HEAD?labpath=Sesiones/Sesion_09.ipynb) |
 | **10** |  | [![Lanzar](https://img.shields.io/badge/Lanzar-Sesión%2010-blue?logo=jupyter)](https://mybinder.org/v2/gh/amigo618/python_1bach/HEAD?labpath=Sesiones/Sesion_10.ipynb) |
-
+| **Práctica 1** | Variables, Condicionales y Bucles | [![Lanzar](https://img.shields.io/badge/Lanzar-Practica%201-blue?logo=jupyter)](https://mybinder.org/v2/gh/amigo618/python_1bach/HEAD?labpath=Sesiones/Practica_01.ipynb) |
 
 ---
 ## 🛠️ Estructura de cada sesión
