@@ -6,10 +6,11 @@
    "source": [
     "# 🧠 Repaso de Lógica: El Desafío del Fin de Semana\n",
     "\n",
-    "Este cuaderno está diseñado para asentar las bases de la programación. No solo debes programar, sino también **explicar qué ocurre**.\n",
+    "Este cuaderno tiene un objetivo claro: que demuestres que entiendes la **lógica** detrás del código. \n",
     "\n",
     "--- \n",
-    "## 🛠️ Bloque 1: Desarrollo (Tú programas y explicas)"
+    "## 🛠️ Bloque 1: Desarrollo (Tú programas y explicas)\n",
+    "*Escribe el código y usa la celda de texto de abajo para explicar qué hace el ordenador paso a paso.*"
    ]
   },
   {
@@ -17,8 +18,8 @@
    "metadata": {},
    "source": [
     "### 1. El Control de Acceso\n",
-    "Pide la **edad** y si tiene **entrada** (\"si\"/\"no\").\n",
-    "* **Misión:** Si es mayor de 18 y tiene entrada, imprime \"Bienvenido\". Si no, \"No puedes pasar\"."
+    "Pide al usuario su **edad** y si tiene **entrada** (si/no).\n",
+    "* **Misión:** Si es mayor de 18 años **y** tiene entrada, imprime \"Bienvenido\". Si falla alguna, imprime \"No puedes pasar\"."
    ]
   },
   {
@@ -27,10 +28,7 @@
    "metadata": {},
    "outputs": [],
    "source": [
-    "edad = int(input(\"Tu edad: \"))\n",
-    "entrada = input(\"¿Tienes entrada? (si/no): \")\n",
-    "\n",
-    "# Escribe aquí el if/else"
+    "# Escribe tu código aquí\n"
    ]
   },
   {
@@ -45,8 +43,8 @@
    "metadata": {},
    "source": [
     "### 2. El Filtro de Precios\n",
-    "`precios = [10, 45, 8, 20, 100, 55]`\n",
-    "* **Misión:** Crea la lista `caros` y añade solo los precios mayores de 50 usando un bucle."
+    "Dada la lista `precios = [10, 45, 8, 20, 100, 55]`.\n",
+    "* **Misión:** Crea la lista `caros` y añade solo los precios mayores de 50 usando un bucle `for`."
    ]
   },
   {
@@ -58,7 +56,7 @@
     "precios = [10, 45, 8, 20, 100, 55]\n",
     "caros = []\n",
     "\n",
-    "# Escribe aquí el for y el if"
+    "# Tu código aquí\n"
    ]
   },
   {
@@ -73,7 +71,8 @@
    "metadata": {},
    "source": [
     "### 3. El Buscador de Letras\n",
-    "Pide una palabra y una letra. Cuenta cuántas veces aparece esa letra en la palabra."
+    "Pide al usuario una palabra y una letra.\n",
+    "* **Misión:** Recorre la palabra y cuenta cuántas veces aparece esa letra."
    ]
   },
   {
@@ -82,11 +81,7 @@
    "metadata": {},
    "outputs": [],
    "source": [
-    "palabra = input(\"Dime una palabra: \")\n",
-    "letra_buscada = input(\"Dime la letra a contar: \")\n",
-    "contador = 0\n",
-    "\n",
-    "# Escribe aquí el bucle"
+    "# Tu código aquí\n"
    ]
   },
   {
@@ -101,8 +96,8 @@
    "metadata": {},
    "source": [
     "### 4. La Hucha de Ahorro\n",
-    "`hucha = [2, 1, 0.5, 2, 2, 0.2]`\n",
-    "* **Misión:** Suma todas las monedas e imprime el total final."
+    "Lista: `hucha = [2, 1, 0.5, 2, 2, 0.2]`.\n",
+    "* **Misión:** Suma todas las monedas y muestra el total final."
    ]
   },
   {
@@ -112,9 +107,8 @@
    "outputs": [],
    "source": [
     "hucha = [2, 1, 0.5, 2, 2, 0.2]\n",
-    "total = 0\n",
     "\n",
-    "# Escribe aquí la suma"
+    "# Tu código aquí\n"
    ]
   },
   {
@@ -129,7 +123,7 @@
    "metadata": {},
    "source": [
     "### 5. El Limitador de Velocidad\n",
-    "Muestra los números del 1 al 100, pero detén el bucle (`break`) cuando llegues al 15."
+    "* **Misión:** Imprime los números del 1 al 100, pero detén el bucle (`break`) al llegar al 15."
    ]
   },
   {
@@ -138,9 +132,7 @@
    "metadata": {},
    "outputs": [],
    "source": [
-    "for i in range(1, 101):\n",
-    "    # Tu lógica aquí\n",
-    "    pass"
+    "# Tu código aquí\n"
    ]
   },
   {
@@ -156,28 +148,35 @@
    "source": [
     "--- \n",
     "## 🔍 Bloque 2: Comprensión (Tú analizas)\n",
-    "Explica qué resultado darán estos códigos sin ejecutarlos."
+    "*Explica qué resultado darán estos códigos sin ejecutarlos.*"
    ]
   },
   {
    "cell_type": "markdown",
    "metadata": {},
    "source": [
-    "### 6. Lógica de acceso\n",
+    "### 6. Análisis: Lógica de Acceso\n",
     "```python\n",
     "puntos = 10\n",
     "vip = False\n",
     "if puntos > 5 or vip == True:\n",
     "    print(\"Acceso concedido\")\n",
     "```\n",
-    "**Respuesta:**"
+    "**Pregunta:** ¿Qué se imprimirá y por qué?"
    ]
   },
   {
    "cell_type": "markdown",
    "metadata": {},
    "source": [
-    "### 7. Conteo de bucle\n",
+    "**✍️ Tu respuesta:**"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "### 7. Análisis: El Bucle de Saltos\n",
     "```python\n",
     "colores = [\"rojo\", \"azul\", \"verde\", \"amarillo\"]\n",
     "for c in colores:\n",
@@ -186,7 +185,79 @@
     "    else:\n",
     "        print(\"Buscando\")\n",
     "```\n",
-    "**Respuesta:**"
+    "**Pregunta:** ¿Cuántas veces dirá \"Buscando\"?"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "**✍️ Tu respuesta:**"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "### 8. Análisis: La Transformación\n",
+    "```python\n",
+    "numeros = [1, 2, 3]\n",
+    "resultado = []\n",
+    "for n in numeros:\n",
+    "    resultado.append(n * 10)\n",
+    "print(resultado)\n",
+    "```\n",
+    "**Pregunta:** ¿Cuál será la lista final?"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "**✍️ Tu respuesta:**"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "### 9. Análisis: Conteo Manual\n",
+    "```python\n",
+    "nombre = \"Python\"\n",
+    "conteo = 0\n",
+    "for letra in nombre:\n",
+    "    conteo = conteo + 1\n",
+    "print(conteo)\n",
+    "```\n",
+    "**Pregunta:** ¿Qué valor tiene `conteo` al final?"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "**✍️ Tu respuesta:**"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "### 10. Análisis: El Filtro Par\n",
+    "```python\n",
+    "datos = [10, 15, 20]\n",
+    "for d in datos:\n",
+    "    if d % 2 == 0:\n",
+    "        print(d, \"es par\")\n",
+    "```\n",
+    "**Pregunta:** ¿Por qué no sale el 15?"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "**✍️ Tu respuesta:**"
    ]
   }
  ],
@@ -197,9 +268,21 @@
    "name": "python3"
   },
   "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
    "name": "python",
-   "version": "3.10"
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.11.0"
   }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 4
+}
  },
  "nbformat": 4,
  "nbformat_minor": 4
