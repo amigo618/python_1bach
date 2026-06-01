@@ -1,0 +1,117 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# Sesión Práctica: Primeros Retos en Python\n",
+    "\n",
+    "Lee atentamente las instrucciones de cada reto. Escribe tu código en la celda gris que hay debajo de cada uno y pulsa el botón de ejecutar (Play) para probar si funciona."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "### Reto 1: La máquina del tiempo\n",
+    "Escribe un programa que pregunte al usuario en qué año nació (usando `input`). Luego, el programa debe calcular cuántos años cumple (o ha cumplido) en el año actual (2026) y mostrar el resultado en pantalla.\n",
+    "\n",
+    "*Pista: Recuerda que lo que el usuario escribe se guarda como texto. Necesitarás usar `int()` para convertirlo a número antes de restar.*"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Escribe aquí tu código para el Reto 1\n",
+    "\n",
+    "\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "### Reto 2: El radar de velocidad\n",
+    "Imagina que un coche va a 130 km/h. Ya tienes la variable creada abajo. \n",
+    "\n",
+    "Usa un condicional (`if` / `else`) para que el programa imprima **\"Multa\"** si la velocidad es mayor a 120, o imprima **\"Velocidad legal\"** si es 120 o menor."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "velocidad = 130\n",
+    "\n",
+    "# Escribe aquí tu condicional\n",
+    "\n",
+    "\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "### Reto 3: El megáfono automático\n",
+    "Tienes una lista con tus 3 comidas favoritas. En lugar de imprimir la lista entera de golpe, usa un bucle `for` para que el programa imprima cada comida en una línea separada, añadiendo el texto **\"Me encanta comer \"** delante de cada una."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "comidas = [\"pizza\", \"macarrones\", \"helado\"]\n",
+    "\n",
+    "# Escribe aquí tu bucle for\n",
+    "\n",
+    "\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "### Reto 4: Romper la hucha\n",
+    "Tienes una lista con las monedas que hay dentro de una hucha. También tienes una variable `total` que empieza en 0. \n",
+    "\n",
+    "Usa un bucle `for` para recorrer las monedas y sumarlas a la variable `total`. Al terminar el bucle, imprime en pantalla un mensaje diciendo cuánto dinero tienes ahorrado en total."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "monedas = [2, 1, 2, 5]\n",
+    "total = 0\n",
+    "\n",
+    "# Escribe aquí tu bucle for para sumar las monedas\n",
+    "\n",
+    "\n",
+    "# Escribe aquí el print final (¡cuidado con la sangría!)\n",
+    "\n"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "name": "python",
+   "version": "3.11.0"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
